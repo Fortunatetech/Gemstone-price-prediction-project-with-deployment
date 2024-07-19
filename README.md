@@ -20,10 +20,11 @@ The `init_setup.sh` script automates the process of creating a virtual environme
   ```sh
   ./init_setup.sh
 
+
 ### Alternative Method: Run with Bash
 - If you prefer not to change the file permissions, you can run the script directly with bash:
 
   ```sh
-bash init_setup.sh
+  bash init_setup.sh
 
 
